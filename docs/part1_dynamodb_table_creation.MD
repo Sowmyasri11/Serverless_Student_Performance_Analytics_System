@@ -30,9 +30,7 @@ The table stores the following student-related information:
 
 ## Primary Key Configuration
 
-Partition Key:
-
-student_id (String)
+Partition Key: student_id (String)
 
 No Sort Key is required.
 
